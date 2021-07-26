@@ -1,0 +1,16 @@
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.exe
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.deps.json
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.runtimeconfig.json
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.runtimeconfig.dev.json
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.dll
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\ref\programme_poo.dll
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\bin\Debug\net5.0\programme_poo.pdb
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.csproj.AssemblyReference.cache
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.AssemblyInfoInputs.cache
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.AssemblyInfo.cs
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.csproj.CoreCompileInputs.cache
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.dll
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\ref\programme_poo.dll
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.pdb
+F:\Udemy\CSharp\PACK_RESSOURCES\PARTIE1\8_programme_poo\programme_poo13\programme_poo\obj\Debug\net5.0\programme_poo.genruntimeconfig.cache
